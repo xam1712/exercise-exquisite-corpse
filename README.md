@@ -1,2 +1,3 @@
-# exercise-exquisite-corpse
-exercice de cadavre exquis
+# L'OS du diable
+
+Pourquoi? Comment ? Mais nooon! aaaaaargh!
